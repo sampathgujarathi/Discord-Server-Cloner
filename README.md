@@ -33,6 +33,15 @@
 
 ## Installation
 ```py
+pip install colorama
+```
+```py
+pip install discord
+```
+```py
+pip install pypresence
+```
+```py
 python Cloner.py
 ```
 ## Deployed
