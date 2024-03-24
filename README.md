@@ -46,12 +46,12 @@ python Cloner.py
 ```
 ## Deployed
 
-- [GitHub](https://github.com/gsampath2/Discord-Server-Cloner/)
+- [GitHub](https://github.com/sampathgujarathi/Discord-Server-Cloner/)
 
 ## Links
 
-- [Website](https://sampathgujarathi.ml)
-- [GitHub](https://github.com/gsampath2)
+- [Website](https://sampath.tech)
+- [GitHub](https://github.com/sampathgujarathi)
 
 
 ## Features
